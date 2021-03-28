@@ -1,0 +1,12 @@
+{
+  "name": "native-weather-app",
+  "displayName": "native-weather-app",
+  "expo": {
+    "name": "native-weather-app",
+    "slug": "native-weather-app",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
